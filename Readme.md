@@ -1,7 +1,7 @@
 
 
 <div align="center">
-  <img src="./Darkhold/assets/darkhold_logo.png" alt="Darkhold Logo" width="200" height="200">
+  <img src="./Code/assets/darkhold_logo.png" alt="Darkhold Logo" width="200" height="200">
 
 </div>
 
